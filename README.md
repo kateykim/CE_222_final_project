@@ -6,7 +6,7 @@ This repository contains the Python implementation for my CE 222 final project.
 
 - `CE_222_final_project.ipynb`: full Jupyter notebook implementation
 - `figures/`: figures used in the report
-- `report.pdf`: final project report
+- `CE_222_Final_Report.pdf`: final project report
 
 ## Solver Summary
 
